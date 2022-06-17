@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ggfittext",
+    "oncran": true
+  },
+  {
+    "package": "gggenes",
+    "oncran": true
+  },
+  {
+    "package": "treemapify",
+    "oncran": true
+  }
+]
