@@ -8,13 +8,13 @@
 	url = https://github.com/wilkox/ggfittext
 	shallow = true
 	registered = true
-[submodule "gggenes"]
-	path = gggenes
-	url = https://github.com/wilkox/gggenes
-	shallow = true
-	registered = true
 [submodule "treemapify"]
 	path = treemapify
 	url = https://github.com/wilkox/treemapify
+	shallow = true
+	registered = true
+[submodule "gggenes"]
+	path = gggenes
+	url = https://github.com/wilkox/gggenes
 	shallow = true
 	registered = true
