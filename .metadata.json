@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "treemapify",
+    "package": "gggenes",
     "oncran": true
   },
   {
-    "package": "gggenes",
+    "package": "treemapify",
     "oncran": true
   }
 ]
