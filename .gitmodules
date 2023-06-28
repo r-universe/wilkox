@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggfittext"]
 	path = ggfittext
 	url = https://github.com/wilkox/ggfittext
-	shallow = true
-	registered = true
 [submodule "gggenes"]
 	path = gggenes
 	url = https://github.com/wilkox/gggenes
-	shallow = true
-	registered = true
 [submodule "treemapify"]
 	path = treemapify
 	url = https://github.com/wilkox/treemapify
-	shallow = true
-	registered = true
